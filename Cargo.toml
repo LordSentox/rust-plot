@@ -1,5 +1,5 @@
 [package]
-name = "sfml-plot"
+name = "rust-plot"
 version = "0.1.0"
 authors = ["Arne Dussin <arne.dussin@live.de>"]
 
