@@ -1,0 +1,7 @@
+[package]
+name = "sfml-plot"
+version = "0.1.0"
+authors = ["Arne Dussin <arne.dussin@live.de>"]
+
+[dependencies]
+sfml = "*"
